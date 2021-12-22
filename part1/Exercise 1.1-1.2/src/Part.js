@@ -1,4 +1,4 @@
-import react from "react";
+
 
 const Part = ({part,exercise}) => {
     return (

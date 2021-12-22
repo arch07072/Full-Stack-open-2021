@@ -1,7 +1,7 @@
-import React from "react";
+
 
 const Header = (props) => {
-    return props.course;
+    return props.course.name;
   }
 
 export default Header; 
